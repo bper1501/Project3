@@ -1,0 +1,12 @@
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\bin\Debug\ResidentHall.exe.config
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\bin\Debug\ResidentHall.exe
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\bin\Debug\ResidentHall.pdb
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.Login.resources
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.NewResident.resources
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.Properties.Resources.resources
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.Selection.resources
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.csproj.GenerateResource.Cache
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.exe
+c:\users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.pdb
+C:\Users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.Search.resources
+C:\Users\perbraa\documents\visual studio 2017\Projects\ResidentHall\ResidentHall\obj\Debug\ResidentHall.csprojResolveAssemblyReference.cache
